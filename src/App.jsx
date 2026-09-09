@@ -160,19 +160,19 @@ function App() {
           <h1 className='bio'>{bio}</h1> {/* Bio with typewriter effect */}
         </div>
         <div className='links'>
-          <a href="https://twitter.com/2HB2QedJXb7055" target="_blank" rel="noopener noreferrer">
-            <img src={twitter} className='link1' alt="Twitter" />
+          <a href="https://www.facebook.com/share/1B1z9uZEeF/"_blank" rel="noopener noreferrer">
+            <img src={facebook} className='link1' alt="Twitter" />
           </a>
-          <a href="https://github.com/movemented" target="_blank" rel="noopener noreferrer">
-            <img src={git} className='link2' alt="GitHub" />
+          <a href="https://wa.me/94769962937" target="_blank" rel="noopener noreferrer">
+            <img src={whatsapp} className='link2' alt="GitHub" />
           </a>
-          <a href="https://www.instagram.com/movemented/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/kalu_putha55?utm_source=qr&stkn=ZGVzbWdwdXI3dTZp" target="_blank" rel="noopener noreferrer">
             <img src={insta} className='link3' alt="Instagram" />
           </a>
-          <a href="https://www.youtube.com/channel/UCbrSndkaflZIa6HaCBHLRvA" target="_blank" rel="noopener noreferrer">
+          <a href="https://youtube.com/@sonofgodz-w8r?si=lCL_os-MSFZt5eyc" target="_blank" rel="noopener noreferrer">
             <img src={yt} className='link4' alt="YouTube" />
           </a>
-          <a href="https://discord.com/users/1079862959360184390" target="_blank" rel="noopener noreferrer">
+          <a href="https://discord.com/users/1254377552332456006" target="_blank" rel="noopener noreferrer">
             <img src={discord} className='link5' alt="Discord" />
           </a>
         </div>
